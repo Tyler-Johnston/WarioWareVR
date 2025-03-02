@@ -6,7 +6,7 @@ Assets/SimplePoly City - Low Poly Assets/
 Assets/XR/
 Assets/XRI/
 Assets/Samples
-Assets/Supercyan Character Pack Free Sample*
+Assets/Supercyan Character Pack Free Sample
 
 Library/
 Temp/
@@ -14,3 +14,4 @@ Logs/
 UserSettings/
 obj/
 .vs*
+*.meta
